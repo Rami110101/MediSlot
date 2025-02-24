@@ -1,16 +1,23 @@
-# project
+# MediSlot
+A Flutter app for managing healthcare appointments, developed solo during the Freelancers Hub (Sanad/UNDP) internship. Designed to streamline booking with secure authentication and a responsive, user-friendly interface.
 
-A new Flutter project.
+## Features
+- **Secure Authentication**: Login and registration powered by REST APIs.
+- **Appointment System**: Clean UI for scheduling and tracking medical appointments.
+- **Localization**: Supports English and Arabic for broader accessibility.
+- **Efficient Design**: Built with BLoC/Cubit state management and MVC architecture.
 
-## Getting Started
+## Tech Stack
+- Flutter, Dart
+- BLoC/Cubit for state management
+- REST APIs for authentication
+- MVC architecture for clean, maintainable code
 
-This project is a starting point for a Flutter application.
+ ## Getting Started
+1. **Clone the Repo**: `git clone https://github.com/yourusername/Jiffy.git`
+2. **Install Dependencies**: Run `flutter pub get` in the project directory.
+3. **Run the App**: Use `flutter run` with a connected device or emulator.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is for demonstration purposes and not licensed for commercial use.
